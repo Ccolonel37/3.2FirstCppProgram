@@ -3,10 +3,8 @@
 
 int main(){
 
-    std::cout << "Connie Hickson" << std::endl;
-    std::cout << "Connie Hickson" << std::endl;
-    std::cout << "Connie Hickson" << std::endl;
-    std::cout << "Connie Hickson" << std::endl;
+    std::cout << "Hello World!" << std::endl;
+
     return 0;
 }
 
